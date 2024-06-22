@@ -14,8 +14,8 @@ h3{
 .game{
     display:grid;
     margin:40px auto;
-    grid-template-columns: repeat(4,120px);
-    grid-row-gap:2em;
+    grid-template-columns: repeat(4,80px);
+    grid-row-gap:1em;
     align-items: center;
     justify-content: center;
 }
