@@ -23,7 +23,7 @@ h3{
 #gameBoard div{
     height:100px;
     width:60px;
-    border:2px solid rgb(151, 151, 202);
+    border:2px solid rgb(140, 140, 180);
     display:flex;
     align-items: center;
     justify-content: center;
